@@ -28,3 +28,8 @@ In SpinBooth: **Learn → ⋯ → Share as catalog entry**, and send the JSON. B
 from a handful of Guangdong boards, so one capture usually covers many brands at once.
 
 `verified: false` means it worked on the bench. It becomes `true` after it has run a real event.
+
+## Privacy
+
+SpinBooth's privacy policy lives here too, so it has a stable public URL for the App Store:
+[privacy.md](privacy.md).
